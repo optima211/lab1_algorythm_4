@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lab1_algorythm_4/1.0.0": {
+        "runtime": {
+          "lab1_algorythm_4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab1_algorythm_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

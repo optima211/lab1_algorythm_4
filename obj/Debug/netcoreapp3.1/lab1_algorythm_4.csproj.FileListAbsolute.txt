@@ -1,0 +1,11 @@
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\bin\Debug\netcoreapp3.1\lab1_algorythm_4.exe
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\bin\Debug\netcoreapp3.1\lab1_algorythm_4.deps.json
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\bin\Debug\netcoreapp3.1\lab1_algorythm_4.runtimeconfig.json
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\bin\Debug\netcoreapp3.1\lab1_algorythm_4.runtimeconfig.dev.json
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\bin\Debug\netcoreapp3.1\lab1_algorythm_4.dll
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\bin\Debug\netcoreapp3.1\lab1_algorythm_4.pdb
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\obj\Debug\netcoreapp3.1\lab1_algorythm_4.csprojAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\obj\Debug\netcoreapp3.1\lab1_algorythm_4.AssemblyInfoInputs.cache
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\obj\Debug\netcoreapp3.1\lab1_algorythm_4.AssemblyInfo.cs
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\obj\Debug\netcoreapp3.1\lab1_algorythm_4.dll
+C:\Users\Михаил\Documents\Visual Studio 2019\lab1_algorythm_4\obj\Debug\netcoreapp3.1\lab1_algorythm_4.pdb
